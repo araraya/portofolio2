@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portofolio2/static/css/main.512091e1.css",
-    "main.js": "/portofolio2/static/js/main.726cc238.js",
+    "main.js": "/portofolio2/static/js/main.074ba66c.js",
     "static/media/xylophone.apk": "/portofolio2/static/media/xylophone.0e72532f54f122b9e851.apk",
     "static/media/magic8.apk": "/portofolio2/static/media/magic8.cfbc912068ca0c5e4753.apk",
     "static/media/dicee.apk": "/portofolio2/static/media/dicee.156161b7a535000ef0a0.apk",
@@ -32,10 +32,10 @@
     "static/media/favicon.ico": "/portofolio2/static/media/favicon.4fe75d5f9adb18067b85.ico",
     "index.html": "/portofolio2/index.html",
     "main.512091e1.css.map": "/portofolio2/static/css/main.512091e1.css.map",
-    "main.726cc238.js.map": "/portofolio2/static/js/main.726cc238.js.map"
+    "main.074ba66c.js.map": "/portofolio2/static/js/main.074ba66c.js.map"
   },
   "entrypoints": [
     "static/css/main.512091e1.css",
-    "static/js/main.726cc238.js"
+    "static/js/main.074ba66c.js"
   ]
 }
