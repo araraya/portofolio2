@@ -43,7 +43,7 @@ const Footer = () => {
                     © Arya Danih Lesmana {currentYear}
                 </div>
                 <div style={{ display: "flex", justifyContent: "center", alignItems: "center" }}>
-                    <p className="pr-2">Made with React </p><p> </p> <img className="inline-block w-6 h-6" src={ReactIcon} />
+                    <p className="pr-2">Made with React </p><p> </p> <img className="inline-block w-6 h-6" src={ReactIcon} alt="ReactJS" />
                 </div>
 
             </footer>
