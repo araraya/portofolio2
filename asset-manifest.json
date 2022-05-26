@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/portofolio2/static/css/main.512091e1.css",
-    "main.js": "/portofolio2/static/js/main.fe2a581c.js",
+    "main.css": "/portofolio2/static/css/main.588dc455.css",
+    "main.js": "/portofolio2/static/js/main.0ba55267.js",
     "static/media/xylophone.apk": "/portofolio2/static/media/xylophone.0e72532f54f122b9e851.apk",
     "static/media/magic8.apk": "/portofolio2/static/media/magic8.cfbc912068ca0c5e4753.apk",
     "static/media/dicee.apk": "/portofolio2/static/media/dicee.156161b7a535000ef0a0.apk",
     "static/media/mapid.png": "/portofolio2/static/media/mapid.78e6a3bc1c5186edf8b5.png",
     "static/media/bapeddabogor.png": "/portofolio2/static/media/bapeddabogor.322466d9a5b6b5ec1857.png",
     "static/media/polisiap.png": "/portofolio2/static/media/polisiap.43dff3bfe3c26b775737.png",
+    "static/media/CV_Arya Danih Lesmana_2022 Eng.pdf": "/portofolio2/static/media/CV_Arya Danih Lesmana_2022 Eng.435fffed7201fe6ce7e3.pdf",
     "static/media/keeper.png": "/portofolio2/static/media/keeper.94410b27ef9207b357b4.png",
     "static/media/blog.png": "/portofolio2/static/media/blog.f5926b794d59b4290a74.png",
     "static/media/arcgis.png": "/portofolio2/static/media/arcgis.6db8f1cc2bbfc95033cb.png",
@@ -31,11 +32,11 @@
     "static/media/javascript.png": "/portofolio2/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "static/media/favicon.ico": "/portofolio2/static/media/favicon.4fe75d5f9adb18067b85.ico",
     "index.html": "/portofolio2/index.html",
-    "main.512091e1.css.map": "/portofolio2/static/css/main.512091e1.css.map",
-    "main.fe2a581c.js.map": "/portofolio2/static/js/main.fe2a581c.js.map"
+    "main.588dc455.css.map": "/portofolio2/static/css/main.588dc455.css.map",
+    "main.0ba55267.js.map": "/portofolio2/static/js/main.0ba55267.js.map"
   },
   "entrypoints": [
-    "static/css/main.512091e1.css",
-    "static/js/main.fe2a581c.js"
+    "static/css/main.588dc455.css",
+    "static/js/main.0ba55267.js"
   ]
 }
